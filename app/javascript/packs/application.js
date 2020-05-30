@@ -33,3 +33,7 @@ document.addEventListener('turbolinks:load', () => {
   // Call your functions here, e.g:
   // initSelect2();
 });
+
+//= require jquery3
+//= require popper
+//= require bootstrap-sprockets
